@@ -55,6 +55,8 @@ git clone https://github.com/Sumiya19/relief-hub.git
 cd relief-hub
 
 ---
-## Run Directly
 
-https://reliefhubhackathon.netlify.app/
+## 🌐 **Hosting**
+The project is hosted live on Netlify:
+
+🔗 https://reliefhubhackathon.netlify.app/
